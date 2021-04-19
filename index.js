@@ -1,22 +1,19 @@
-//Opdracht 1
-function add(num1, num2) {
-    return  num1 + num2;
+//Opdracht add maak een som met 2 nummers die optellen:
+function add() {
+
 }
 
-add();
+//Opdracht greeter, maak een greeter met je naam:
+function greeter() {
 
-//Opdracht 2
-function greeter(name) {
-    return "Hallo " + name + "!"
 }
-// console.log(greeter("Rianne"));
 
-//Opdracht 3
-function getDetails(firstName, lastName, age) {
-    return "Mijn naam is " + firstName + " " + lastName + " en ik ben " + age + " jaar oud."
+
+//Opdracht getDetails moet "Mijn naam is "voornaam" "achternaam" en ik ben "leeftijd" jaar oud" geven.
+// Hier in zet je je eigen gegevens.
+function getDetails() {
+
 }
-// console.log(getDetails("Rianne", "Honders", "31"));
-
 
 
 module.exports = {
